@@ -1,0 +1,5 @@
+{
+  "description": "SIGMA (Spatial Insight & Gesture Movement Analyzer) — cognitive research tool for the 9-dots puzzle experiment, tracking user strokes, classifying line types, and exporting trial data to CSV with subject grouping support.",
+  "requestFramePermissions": [],
+  "name": "SIGMA"
+}
